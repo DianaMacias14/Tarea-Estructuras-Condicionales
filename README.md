@@ -1,5 +1,5 @@
 # Tarea Estructuras Condicionales
--Nombre: Diana Montserrat Macias De Lara
+<br />-Nombre: Diana Montserrat Macias De Lara<br />
 -No. Control: 25150067
 -El programa de clasificación de triángulos trata de que el usuario ingrese 3 longitudes de lados para indicar si es un triángulo equilátero, isóceles o escaleno
 -El programa de año bisiesto trata de que el usuario ingresa un año y indica si es bisiesto(divisible entre 4 y 400) o no(entre 100)
